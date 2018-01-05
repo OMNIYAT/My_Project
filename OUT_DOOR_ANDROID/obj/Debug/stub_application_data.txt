@@ -1,0 +1,2 @@
+android.app.Application
+OUT_DOOR_ANDROID.OUT_DOOR_ANDROID

@@ -1,0 +1,12 @@
+OUT_DOOR_ANDROID.MainActivity, OUT_DOOR_ANDROID;md51ceee7a8b72bb759ef2ef3695e813b6d.MainActivity
+OUT_DOOR_ANDROID.MainActivity, OUT_DOOR_ANDROID, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51ceee7a8b72bb759ef2ef3695e813b6d.MainActivity
+OUT_DOOR_ANDROID.MainActivity;md51ceee7a8b72bb759ef2ef3695e813b6d.MainActivity
+out_door_android.MainActivity;md51ceee7a8b72bb759ef2ef3695e813b6d.MainActivity
+OUT_DOOR_ANDROID.View.Plan, OUT_DOOR_ANDROID;md54d201ffa1c08a8961db8c85fbb79e1ea.Plan
+OUT_DOOR_ANDROID.View.Plan, OUT_DOOR_ANDROID, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54d201ffa1c08a8961db8c85fbb79e1ea.Plan
+OUT_DOOR_ANDROID.View.Plan;md54d201ffa1c08a8961db8c85fbb79e1ea.Plan
+out_door_android.view.Plan;md54d201ffa1c08a8961db8c85fbb79e1ea.Plan
+OUT_DOOR_ANDROID.Adapter.CustomAdapter, OUT_DOOR_ANDROID;md58e35867ab8b819b3218086c513d9852d.CustomAdapter
+OUT_DOOR_ANDROID.Adapter.CustomAdapter, OUT_DOOR_ANDROID, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58e35867ab8b819b3218086c513d9852d.CustomAdapter
+OUT_DOOR_ANDROID.Adapter.CustomAdapter;md58e35867ab8b819b3218086c513d9852d.CustomAdapter
+out_door_android.adapter.CustomAdapter;md58e35867ab8b819b3218086c513d9852d.CustomAdapter

@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OUT_DOOR_ANDROID", "OUT_DOOR_ANDROID\OUT_DOOR_ANDROID.csproj", "{D56B88D6-8466-42CB-9FE8-EA2B42ABBD9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D56B88D6-8466-42CB-9FE8-EA2B42ABBD9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D56B88D6-8466-42CB-9FE8-EA2B42ABBD9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D56B88D6-8466-42CB-9FE8-EA2B42ABBD9D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D56B88D6-8466-42CB-9FE8-EA2B42ABBD9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D56B88D6-8466-42CB-9FE8-EA2B42ABBD9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D56B88D6-8466-42CB-9FE8-EA2B42ABBD9D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CA37668-7C7D-4C86-B9A2-92FD52F7E300}
+	EndGlobalSection
+EndGlobal
